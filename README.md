@@ -23,6 +23,9 @@ My name is Cindy, with a Computer Science major and a Chemistry minor. I have wo
 [![Linkedin][1]][1.1]
 [![Website][2]][2.1]
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy1u0)
+
 <!-- Icons -->
 
 [1]: https://img.icons8.com/linkedin
