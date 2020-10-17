@@ -21,13 +21,16 @@ My name is Cindy, with a Computer Science major and a Chemistry minor. I have wo
 
 ### 💬 Contact
 [![Linkedin][1]][1.1]
+[![Website][2]][2.1]
 
 <!-- Icons -->
 
 [1]: https://img.icons8.com/linkedin
+[2]: https://img.icons8.com/globe
 
 <!-- Links to your social media accounts -->
 
 [1.1]: https://www.linkedin.com/in/cindy1u0/
+[2.1]: https://cindy1u0.github.io
 
 
