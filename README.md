@@ -20,7 +20,7 @@ My name is Cindy, with a Computer Science major and a Chemistry minor. I have wo
 🔭 I’m currently working for 3 psychology researchers on [Vocab Buddy](https://github.com/sandboxnu/vocab-buddy) which is a tool to keep track of children's vocabulary learning process.
 
 ### 💬 Contact
-<i class="ri-linkedin-box-line"></i> 
+<i class="ri-linkedin-box-line">linkedin</i> 
 
 <!-- Icons -->
 
