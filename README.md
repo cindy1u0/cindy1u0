@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Cindy, with a Computer Science major and a Chemistry minor. I have worked as a full stack software engineer intern at [Paperless Parts](https://www.paperlessparts.com/), and I am currently working as a developer and Marketing & Events Director at [Sandbox](https://www.sandboxnu.com).
+I am Cindy, with a Computer Science major and a Chemistry minor. I have worked as a full stack software engineer intern at [Paperless Parts](https://www.paperlessparts.com/), and I am currently working as a software engineering co-op at [Salsify](https://www.salsify.com). Additionally, I am also a developer and Marketing & Events Director at [Sandbox](https://www.sandboxnu.com).
 
 ### 🌱 Current Project
 🔭 I’m currently working for 3 psychology researchers on [Vocab Buddy](https://github.com/sandboxnu/vocab-buddy) which is a tool to keep track of children's vocabulary learning process.
