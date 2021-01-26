@@ -24,7 +24,7 @@ I am Cindy, with a Computer Science major and a Chemistry minor. I have worked a
 [![Website][2]][2.1]
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy1u0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy1u0&show_icons=true&theme=radical)
 
 <!-- Icons -->
 
