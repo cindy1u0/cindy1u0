@@ -28,8 +28,8 @@ I am Cindy, with a Computer Science major and a Chemistry minor. I have worked a
 
 <!-- Icons -->
 
-[1]: https://img.icons8.com/linkedin
-[2]: https://img.icons8.com/globe
+[1]: https://img.icons8.com/color/linkedin
+[2]: https://img.icons8.com/color/globe
 
 <!-- Links to your social media accounts -->
 
