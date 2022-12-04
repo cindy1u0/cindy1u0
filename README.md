@@ -1,4 +1,4 @@
-## 👋 Hi there 👋
+## 👋 Hiiii 👋
 
 <!--
 **cindy1u0/cindy1u0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,26 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Cindy, with a Computer Science major and a Chemistry minor. I have worked as a full stack software engineer intern at [Paperless Parts](https://www.paperlessparts.com/), and I am currently working as a software engineering co-op at [Salsify](https://www.salsify.com). Additionally, I am also a developer and Marketing & Events Director at [Sandbox](https://www.sandboxnu.com).
+My name is Cindy, and I recently graduated from Northeastern University with a Computer Science Major in Aug 2022. I am currently a Software Engineer at [Meta](https://about.meta.com/). Nice to meet you all :D
 
-### 🌱 Current Project
-🔭 I’m currently working for 3 psychology researchers on [Vocab Buddy](https://github.com/sandboxnu/vocab-buddy) which is a tool to keep track of children's vocabulary learning process.
+### 🌱 Projects
+🔭 in [Sandbox](https://www.sandboxnu.com), I've worked on [Vocab Buddy](https://github.com/sandboxnu/vocab-buddy) which is a tool to keep track of children's vocabulary learning process, and [GraduateNU](https://github.com/sandboxnu/graduatenu) which is a customizable plan of study through an intuitive and flexible interface for NEU students.
+
+🤔 Currently trying to revamp my personal website with a better UI design.
+
+😄 More to come~
 
 ### 💬 Contact
 [![Linkedin][1]][1.1]
 [![Website][2]][2.1]
+[![Email][3]][3.1]
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy1u0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy1u0&show_icons=true&theme=calm)
 
 <!-- Icons -->
 
-[1]: https://img.icons8.com/color/linkedin
-[2]: https://img.icons8.com/color/globe
+[1]: https://img.icons8.com/linkedin
+[2]: https://img.icons8.com/globe
+[3]: https://img.icons8.com/email
 
 <!-- Links to your social media accounts -->
 
 [1.1]: https://www.linkedin.com/in/cindy1u0/
 [2.1]: https://cindy1u0.github.io
-
+[3.1]: mailto:cindyluo2015@gmail.com
 
